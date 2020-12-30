@@ -54,6 +54,4 @@
 
 8. Write a class MathOperation that accepts integers from command line. Create an array using these parameters. Loop through the array and obtain the sum and average of all the elements. Display the result. Check for various exceptions that may arise like ArrayIndexOutOfBoundsException, ArithmeticException, NumberFormatException, and so on.
 
-```bash
-java MathOperation 1900, 4560, 0, 32500
-```
+   java MathOperation 1900, 4560, 0, 32500
