@@ -50,7 +50,7 @@
 
 6. Write a program to accept 5 integers passed as arguments while executing the class. Find the average of these 5 nos. Use ArrayIndexOutofBounds exception to handle situation where the user might have entered less than 5 integers.
 
-7. Write a Program to tak e care of Number Format Exception if user enters values other that integer for calculating average marks of 2 students. The name of the students and marks in 3 subjects are passed as arguments while executing the program.
+7. Write a Program to tak e care of Number Format Exception if user enters values unfitr for calculating average marks of 2 students. The name of the students and marks in 3 subjects are passed as arguments while executing the program.
 
 8. Write a class MathOperation that accepts integers from command line. Create an array using these parameters. Loop through the array and obtain the sum and average of all the elements. Display the result. Check for various exceptions that may arise like ArrayIndexOutOfBoundsException, ArithmeticException, NumberFormatException, and so on.
 
