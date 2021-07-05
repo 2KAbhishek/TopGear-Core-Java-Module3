@@ -23,11 +23,9 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
+<h2>Solutions for Core Java Module 3 problems ☕3️⃣</h2>
 
 </div>
-
-Contains solutions found in Module 3 of Core Java problem set.
 
 ## Prerequisites
 
@@ -46,19 +44,22 @@ cd TopGear-Core-Java-Module3
 
 ## Using TopGear-Core-Java-Module3
 
-Solution code is placed in Exercises/Exercises# dir
+Solutions are placed in the `Exercises` directory
 
 ```bash
 javac Code.java # Compile
-java Code # Run
+java Code # Execute
 ```
 
-Hit the :star: button if you found this useful.
+Hit the ⭐ button if you found this useful.
 
 ## More Info
 
-<div align="center"></div>
+<div align="center">
 
+<strong>Disclaimer!</strong><br>
+These solutions have been shared for learning purposes only. <br>
+ 
 <a href="https://github.com/2KAbhishek/TopGear-Core-Java-Module3">Source</a> |
 <a href="https://2kabhishek.github.io/TopGear-Core-Java-Module3">Website</a>
 
